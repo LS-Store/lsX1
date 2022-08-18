@@ -1,0 +1,6 @@
+Database:
+  type: 'SQLITE' #Disponíveis: MySQL, SQLITE;
+  user: root
+  pass: ''
+  database: test
+  host: localhost:3306

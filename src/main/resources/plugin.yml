@@ -1,0 +1,5 @@
+name: lsX1
+version: '${version}'
+main: com.ls.x1.X1Plugin
+authors: [sailez_, LuizBebe840]
+description: Plugin de duelos entre jogadores simples.
